@@ -24,7 +24,13 @@ A web-based experiment management UI for the MNIST classification task.
 - Python (v3.8+)
 - pip
 
-### Installation -Vietnamese
+### Installation
+
+
+
+
+
+
 
 1. Clone the repository:
     cd mnist-experiment-manager
